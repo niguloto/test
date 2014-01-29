@@ -1,0 +1,34 @@
+
+// FOTONICA //
+a game by Santa Ragione
+© 2010/2011 - santaragione.com
+-------------------------------
+
+
+Thank you for downloading the game, we hope you'll like it.
+Don't forget to connect to online rankings and upload your 
+best runs!
+
+For any question, suggestion or problem, don't hesitate 
+to contact us at:
+
+- info@santaragione.com
+- @santaragione
+
+
+
+Controls:
+---------
+
+- Hold ANY BUTTON to run.
+- Release to Jump.
+- Hold Mid-Air to Land Rapidly.
+- R to Restart Level.
+- M or N to Mute.
+- P to Pause.
+- ESC to Exit the Game.
+- IN MENU: Mouse controls or Hold Any Button to Select.
+- IN MENU: Release to Shuffle.
+- Multiplayer Setting: A-player1 / L-player2.
+
+
